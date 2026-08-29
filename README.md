@@ -20,7 +20,7 @@ App Flutter navegável com todas as telas do Figma.
 ```
 cd minha_saude
 flutter pub get
-flutter run
+flutterzs run
 ```
 
 ## Telas implementadas
