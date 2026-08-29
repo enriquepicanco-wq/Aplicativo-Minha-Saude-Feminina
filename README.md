@@ -17,7 +17,7 @@ App Flutter navegável com todas as telas do Figma.
 - Instale as extensões Flutter e Dart
 
 ### 4. Abra o projeto
-```
+``ss`
 cd minha_saude
 flutter pub get
 flutter run
